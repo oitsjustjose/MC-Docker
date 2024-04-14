@@ -15,7 +15,7 @@ docker==5.0.0
 filelock==3.0.12
 flake8==3.8.4
 hjson==3.0.2
-idna==2.10
+idna==3.7
 importlib-metadata==2.0.0
 importlib-resources==3.0.0
 isort==5.8.0
