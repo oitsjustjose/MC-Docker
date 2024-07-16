@@ -52,3 +52,4 @@ websocket-client==1.0.1
 wrapt==1.12.1
 yapf==0.30.0
 zipp==3.3.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
